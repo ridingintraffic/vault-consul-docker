@@ -1,3 +1,4 @@
+*.DS_Store
 vault/data/*
 !vault/data/.gitkeep
 vault/logs/*
